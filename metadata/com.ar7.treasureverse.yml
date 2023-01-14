@@ -15,7 +15,7 @@ IssueTracker: https://github.com/ahmadhuss/treasureverse/issues
 AutoName: Treasureverse
 
 RepoType: git
-Repo: https://github.com/ahmadhuss/treasureverse
+Repo: https://github.com/ahmadhuss/treasureverse.git
 
 Builds:
   - versionName: '1.0.0'
