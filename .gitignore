@@ -41,3 +41,6 @@ yarn-error.log*
 config.yml
 
 tmp/
+
+keystore.p12
+*.p12
