@@ -19,8 +19,8 @@ Repo: https://github.com/ahmadhuss/treasureverse
 
 Builds:
   - versionName: '1.0.0'
-      versionCode: 100
-      commit: v1.0.0
+    versionCode: 100
+    commit: v1.0.0
 
 
 AutoUpdateMode: Version
